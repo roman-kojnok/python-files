@@ -4,7 +4,7 @@ import os
 path = os.getcwd()
 dir = os.path.basename(path)
 ext = ('mp3','ogg', 'flac', 'wma', 'wav')
-# ext = ('avi','mp4', 'mov', 'wmv', 'mkv') #  replace for a video playlist
+# ext = ('avi','mp4', 'mov', 'wmv', 'mkv') #  for a video playlist
 
 if os.path.exists(dir + '.m3u'):
     os.remove(dir + '.m3u')
