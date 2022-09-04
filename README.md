@@ -7,3 +7,5 @@
 - Find files with a given list of filename extensions.
 2. get_list-full_path.py
 - Find files with a given list of filename extensions with a full path.
+5. make_music_playlist.py
+- Create a music playlist from audio files inside current directory.
