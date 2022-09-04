@@ -1,6 +1,5 @@
-import sys
+#!/usr/bin/python
 import os
-from os.path import exists
 
 path = os.getcwd()
 dir = os.path.basename(path)
