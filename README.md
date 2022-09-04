@@ -9,3 +9,5 @@
 - Find files with a given list of filename extensions with a full path.
 5. make_music_playlist.py
 - Create a music playlist from audio files inside current directory.
+6. space_remover.py
+- Replaces all empty spaces between words with underscore.
