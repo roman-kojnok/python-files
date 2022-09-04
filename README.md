@@ -10,4 +10,4 @@
 5. make_music_playlist.py
 - Create a music playlist from audio files inside current directory.
 6. space_remover.py
-- Replaces all empty spaces between words with underscore.
+- Replaces all empty spaces between words in the file name with underscore.
