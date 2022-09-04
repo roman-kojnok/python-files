@@ -3,7 +3,7 @@ import os
 import re
 
 #dir_path = os.getcwd()
-dir_path = r'/home/m0rph3us/Videos/TUTORIALS/test/docs'
+dir_path = r'/full/path/to/docs'
 print(dir_path)
 
 for file in os.listdir(dir_path):
